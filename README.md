@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Varnessa28
-- 👀 I’m interested in data analytics and software engineering 
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on data analysis 
-- 📫 How to reach me whatsapp +2349091162139
-
-<!---
+- 👋 Hi, I’m Vanessa
+- 👀 I’m an health worker,i am interested in tech-data analytics and software engineering 
+- 🌱 I’m passionate about solving problems and creating solutions.
+- 💞️ I’m looking to collaborate on any and everything tech related
+- 📫 How to reach me vanessaomtehinse@gmail.com
 Varnessa28/Varnessa28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
